@@ -6,5 +6,8 @@
         <page name='ChallengeIfElse'/>
         <page name='ChallengeLoop'/>
         <page name='ChallengeNumberOfDayInAMounth'/>
+        <page name='ChallengeClouser'/>
+        <page name='ChallengesFunctionPatterns'/>
+        <page name='ChallengeOptional'/>
     </pages>
 </playground>
